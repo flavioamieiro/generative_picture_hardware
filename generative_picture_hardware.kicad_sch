@@ -5882,7 +5882,7 @@
     (uuid 709e9e91-e8c6-418a-9347-6219920aa396)
     (property "Reference" "J1" (id 0) (at 238.76 44.0498 0))
     (property "Value" "e_Paper_HAT" (id 1) (at 238.76 46.349 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical" (id 2) (at 237.49 72.39 0)
+    (property "Footprint" "Generative_picture:e-Paper_display_HAT" (id 2) (at 237.49 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 237.49 72.39 0)
@@ -6297,7 +6297,7 @@
       (reference "F2") (unit 1) (value "PTC 1A") (footprint "Generative_picture:Fuse_Bourns_MF-NSHT")
     )
     (path "/709e9e91-e8c6-418a-9347-6219920aa396"
-      (reference "J1") (unit 1) (value "e_Paper_HAT") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "e_Paper_HAT") (footprint "Generative_picture:e-Paper_display_HAT")
     )
     (path "/0213688c-2bf6-4865-b282-51d39e8a357d"
       (reference "J2") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
