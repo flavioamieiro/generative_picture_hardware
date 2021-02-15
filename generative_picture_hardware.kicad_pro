@@ -118,7 +118,8 @@
         "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.5
       ],
       "via_dimensions": [
         {
