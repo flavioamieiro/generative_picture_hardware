@@ -4830,7 +4830,7 @@
     (uuid 79967ec1-18c4-4b2b-9a79-8f4cedb73ca8)
     (property "Reference" "F1" (id 0) (at 66.04 118.0908 90))
     (property "Value" "PTC 1A" (id 1) (at 66.04 120.39 90))
-    (property "Footprint" "Generative_picture:Fuse_Bourns_MF-NSHT" (id 2) (at 71.12 121.92 0)
+    (property "Footprint" "Generative_picture:Belfuse_0ZCJ" (id 2) (at 71.12 121.92 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "~" (id 3) (at 66.04 123.19 0)
@@ -4970,7 +4970,7 @@
     (uuid 42dd254a-22f9-4813-9731-5f1b9e80bb9d)
     (property "Reference" "F2" (id 0) (at 138.4108 130.81 90))
     (property "Value" "PTC 1A" (id 1) (at 140.71 130.81 90))
-    (property "Footprint" "Generative_picture:Fuse_Bourns_MF-NSHT" (id 2) (at 142.24 124.46 0)
+    (property "Footprint" "Generative_picture:Belfuse_0ZCJ" (id 2) (at 142.24 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "~" (id 3) (at 143.51 129.54 0)
@@ -6107,10 +6107,10 @@
       (reference "D3") (unit 1) (value "green") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/79967ec1-18c4-4b2b-9a79-8f4cedb73ca8"
-      (reference "F1") (unit 1) (value "PTC 1A") (footprint "Generative_picture:Fuse_Bourns_MF-NSHT")
+      (reference "F1") (unit 1) (value "PTC 1A") (footprint "Generative_picture:Belfuse_0ZCJ")
     )
     (path "/42dd254a-22f9-4813-9731-5f1b9e80bb9d"
-      (reference "F2") (unit 1) (value "PTC 1A") (footprint "Generative_picture:Fuse_Bourns_MF-NSHT")
+      (reference "F2") (unit 1) (value "PTC 1A") (footprint "Generative_picture:Belfuse_0ZCJ")
     )
     (path "/709e9e91-e8c6-418a-9347-6219920aa396"
       (reference "J1") (unit 1) (value "e_Paper_HAT") (footprint "Generative_picture:e-Paper_display_HAT")
