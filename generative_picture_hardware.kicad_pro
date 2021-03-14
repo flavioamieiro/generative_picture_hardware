@@ -376,7 +376,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "generative_picture_hardware.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
