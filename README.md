@@ -4,6 +4,8 @@ schematics and PCB layout are done in Kicad and all extra libraries
 necessary to edit the project should be included here. If you find any
 issues, please let me know.
 
+![generative picture board](generative_picture_hardware.png)
+
 This source describes Open Hardware and is licensed under the
 CERN-OHL-S v2.  You may redistribute and modify this source and make
 products using it under the terms of the CERN-OHL-S v2
